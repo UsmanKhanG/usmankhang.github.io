@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Usman Khan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "University of Toronto Alumni, Artist and Game Developer for Zero Imagination Productions\nHe/Him"
+  avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "University of Toronto Alumni, Artist and Game Developer for Zero Imagination Productions\n He/Him"
   location         : "Toronto, Ontario"
   email            :
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/GooseKizzle"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
