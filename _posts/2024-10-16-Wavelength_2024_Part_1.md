@@ -35,7 +35,7 @@ I was not ready for how well $40 Cheese String (we'll call him Garrett from now)
 and the incentives he would bring forth to garner votes. Given we were gunning for 2nd place, and because Garrett and I 
 were well ahead of the rest of the competition, this campaign ended up being us trying to one-up the other in our incentives
 for a whole week on top of how well we could reach out to potential voters. I created a [combo video](https://x.com/GooseKizzle/status/1833675578496475405) and incentive to bring along my friend and fellow top player Faust if we won, the next day Garrett
-(responded by hosting a controller giveaway if he won)[https://x.com/40CheeseStringg/status/1833631907638317288], to which I responded with (my own controller giveaway and also a coaching giveaway.)[https://x.com/GooseKizzle/status/1834074583172784639] 
+[responded by hosting a controller giveaway if he won](https://x.com/40CheeseStringg/status/1833631907638317288), to which I responded with [my own controller giveaway and also a coaching giveaway.](https://x.com/GooseKizzle/status/1834074583172784639) 
 During the last day, we were neck and neck, and I had spent the last 2-3 hours reaching out to anyone I could to help support me in anyway.
 It honestly taught me how important of a skill networking and communication are, getting 160+ unique people to take 5 minutes out of their
 day to vote for me so I could go attend a tournament in Westford was honestly quite the accomplishment for me already. Winning and getting the $1000 for a chance to prove myself at a major was just the icing on top
