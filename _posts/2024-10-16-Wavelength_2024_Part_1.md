@@ -63,5 +63,5 @@ It honestly might've been the craziest voting incentive I've ever seen in Smash 
 Was it a good learning experience? Yes. Am I happy I went through with it? Yes, I was able to attend Wavelength 2024 all-expenses-paid and have one of my best tournament runs ever.
 Will I be doing it again? Hell no, but that's also what I said about Summit voting... So who's to say. 
 
-If you made it this far, thank you for reading! Stay tuned for part 2 where I will go over my trip and travelling to the US for the second time on my own!
+If you made it this far, thank you for reading! Stay tuned for part 2 where I will go over my trip and travelling to the US for the second time for myself!
 
