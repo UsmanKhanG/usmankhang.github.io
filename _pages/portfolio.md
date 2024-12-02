@@ -8,10 +8,30 @@ header:
 intro: 
     - excerpt: "Hey"
 creature_gallery:
-    - url:
-      image_path:
-      alt:
-      title:
+    - url: /assets/images/vccreatures/krakenf1.png
+      image_path:  /assets/images/vccreatures/krakenf1.png
+      alt: "Kraken boss"
+      title: "Kraken boss"
+    - url: /assets/images/vccreatures/trex1.png
+      image_path: /assets/images/vccreatures/trex1.png
+      alt: "Aztec Trex boss"
+      title: "Aztec Trex boss"
+    - url: /assets/images/vccreatures/WhaleFrame1.png
+      image_path: /assets/images/vccreatures/WhaleFrame1.png
+      alt: "Spikes" 
+      title: "Spikes"
+    - url: /assets/images/vccreatures/aztecrhino1.png
+      image_path: /assets/images/vccreatures/aztecrhino1.png
+      alt: "Azteck"
+      title: "Azteck"
+    - url: /assets/images/vccreatures/WolfFrame1.png
+      image_path: /assets/images/vccreatures/WolfFrame1.png
+      alt: "Canis"
+      title: "Canis"
+    - url: /assets/images/vccreatures/CamelFrame1.png
+      image_path: /assets/images/vccreatures/CamelFrame1.png
+      alt: "Steamer"
+      title: "Steamer"
 border_gallery:
     - url: /assets/images/ukiyoeborder.png
       image_path: /assets/images/ukiyoeborder.png
@@ -54,6 +74,8 @@ icon_gallery:
 ---
 
 <!-- TODO: Complete portfolio, include art, and comp sci and melee projects -->
+{% include gallery id="creature_gallery" caption="Some of the many creatures I drew for VirtuaCreature. I had designed over 30 unique creatures based on real life animals with a unique quirk and translated those to pixel-art, each with their own 2-3 frame animation"%}
+
 {% include gallery id="border_gallery" caption="A few examples of the many borders I made for VirtuaCreature"%}
 <!-- # Welcome to my portfolio! -->
 {% include gallery id="icon_gallery" caption="A few more examples of the hundreds of pixel-art icons I created for VirtuaCreature"%}
